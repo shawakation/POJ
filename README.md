@@ -1,3 +1,3 @@
 # POJ
-Solutions for Peking University Online Judge.
-All projects are complied with g++ 8.2.0 in codeblocks 16.10 (ubuntu 18.10)
+POJ 上一些题目的题解，主要用来为 PAT Top Level 做准备。
+All projects are written in C++11 standard.
